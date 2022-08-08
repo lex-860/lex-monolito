@@ -1,0 +1,14 @@
+TODO
+1. remover WARN no startup da aplicacao para diversas tabelas
+WARN 8730 --- [  restartedMain] o.h.engine.jdbc.spi.SqlExceptionHelper   : SQL Warning Code: 0, SQLState: 00000
+WARN 8712 --- [  restartedMain] o.h.engine.jdbc.spi.SqlExceptionHelper   : relation does not exist, skipping
+
+2. chamar api externa para mostrar o saldo da carteira em dolar ou real - quando quiser detalhar carteira
+https://economia.awesomeapi.com.br/BTC/
+https://economia.awesomeapi.com.br/BTC-USD/
+
+3.
+
+
+
+DONE
